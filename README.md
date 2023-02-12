@@ -2,6 +2,7 @@
 ### Education:
 <ul>
 <li>&#x1F393; <strong>Open University of Cyprus</strong> - BSc Business Administration [Sep 2018 - May 2023]</li>
+<li>&#x1F393; <strong>Athens University of Economics and Business> - Software Engineering [Oct 2022 - May 2023]</li>
 </ul>
 
 ### Experience:
