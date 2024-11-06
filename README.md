@@ -7,7 +7,8 @@
 
 ### Experience:
 <ul>
-<li>&#x1F4BC; <strong>Production Supervisor</strong> at Dimitressi S.A. [Oct 2014 - Present]</li>
+<li>&#x1F4BC; <strong>Quality Assurance Enginner</strong> at Amco S.A. [Oct 2024 - Present]</li>
+<li>&#x1F4BC; <strong>Quality Assurance Enginner</strong> at Unicorn Domain [Oct 2023 - Oct 2024]</li>
 </ul>
 
 
