@@ -1,6 +1,7 @@
 ## Welcome, I'm Giannis Avgeros 👋
 ### Education:
 <ul>
+<li>&#x1F393; <strong>Open University of Greece</strong> - MSc Postgraduate Specialization in Information Systems [Oct 2023 - Jun 2026]</li>
 <li>&#x1F393; <strong>Open University of Cyprus</strong> - BSc Business Administration [Sep 2018 - May 2023]</li>
 <li>&#x1F393; <strong>Athens University of Economics and Business</strong> - Software Engineering [Oct 2022 - May 2023]</li>
 </ul>
